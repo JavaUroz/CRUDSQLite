@@ -1,0 +1,30 @@
+C:\Users\Javier\source\repos\AppMoviles\ProyectoSQL\ProyectoSQL\bin\Debug\netstandard2.0\ProyectoSQL.deps.json
+C:\Users\Javier\source\repos\AppMoviles\ProyectoSQL\ProyectoSQL\bin\Debug\netstandard2.0\ProyectoSQL.dll
+C:\Users\Javier\source\repos\AppMoviles\ProyectoSQL\ProyectoSQL\bin\Debug\netstandard2.0\ProyectoSQL.pdb
+C:\Users\Javier\source\repos\AppMoviles\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ProyectoSQL.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\AppMoviles\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ProyectoSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\AppMoviles\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Javier\source\repos\AppMoviles\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Javier\source\repos\AppMoviles\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ProyectoSQL.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\AppMoviles\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ProyectoSQL.AssemblyInfo.cs
+C:\Users\Javier\source\repos\AppMoviles\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ProyectoSQL.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\AppMoviles\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Javier\source\repos\AppMoviles\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ProyectoSQL.dll
+C:\Users\Javier\source\repos\AppMoviles\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\refint\ProyectoSQL.dll
+C:\Users\Javier\source\repos\AppMoviles\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ProyectoSQL.pdb
+C:\Users\Javier\source\repos\AppMoviles\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ref\ProyectoSQL.dll
+C:\Users\Javier Uroz\source\repos\ProyectoSQL\ProyectoSQL\bin\Debug\netstandard2.0\ProyectoSQL.deps.json
+C:\Users\Javier Uroz\source\repos\ProyectoSQL\ProyectoSQL\bin\Debug\netstandard2.0\ProyectoSQL.dll
+C:\Users\Javier Uroz\source\repos\ProyectoSQL\ProyectoSQL\bin\Debug\netstandard2.0\ProyectoSQL.pdb
+C:\Users\Javier Uroz\source\repos\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ProyectoSQL.csproj.AssemblyReference.cache
+C:\Users\Javier Uroz\source\repos\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ProyectoSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Uroz\source\repos\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Javier Uroz\source\repos\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Javier Uroz\source\repos\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ProyectoSQL.AssemblyInfoInputs.cache
+C:\Users\Javier Uroz\source\repos\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ProyectoSQL.AssemblyInfo.cs
+C:\Users\Javier Uroz\source\repos\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ProyectoSQL.csproj.CoreCompileInputs.cache
+C:\Users\Javier Uroz\source\repos\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Javier Uroz\source\repos\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ProyectoSQL.dll
+C:\Users\Javier Uroz\source\repos\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\refint\ProyectoSQL.dll
+C:\Users\Javier Uroz\source\repos\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ProyectoSQL.pdb
+C:\Users\Javier Uroz\source\repos\ProyectoSQL\ProyectoSQL\obj\Debug\netstandard2.0\ref\ProyectoSQL.dll
